@@ -329,7 +329,7 @@ local buttonColors = {
 
 ## License
 
-This addon is provided as-is for use with Garry's Mod bunny hop gamemodes.
+MIT
 
 ## Credits
 
