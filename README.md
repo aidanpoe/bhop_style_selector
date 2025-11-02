@@ -2,6 +2,8 @@
 
 A Garry's Mod bunny hop gamemode addon that provides an elegant, feature-rich style selection system for players. This addon allows players to browse, select, and set default bunny hop movement styles through an intuitive UI interface.
 
+![Style Selector UI](styles.png)
+
 ## Features
 
 - **Interactive Style Selector UI**: Beautiful Cinzel-themed interface matching the gamemode aesthetic
